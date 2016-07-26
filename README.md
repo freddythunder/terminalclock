@@ -1,11 +1,16 @@
 # terminalclock
 Text based clock for tty/pts terminal for linux that looks better-ish
 
-I made this clock for the robot Sbot.  He's a robot made out of a water cooler and a raspberry pi.  No water.  He uses the Raspberry Pi composite output for his small 7" video monitor on his chest.  Since building Sbot, I've learned that I can write a program either locally or via the network to put text on his chest via a command like 'wall' or 'message', or I can use a program called FBI to send pictures and video to the screen.
+I made this clock for the robot Sbot.  He's a robot made out of a water cooler and a raspberry pi.  No water.  
+He uses the Raspberry Pi composite output for his small 7" video monitor on his chest.  Since building Sbot, 
+I've learned that I can write a program either locally or via the network to put text on his chest via a command 
+like 'wall' or 'message', or I can use a program called FBI to send pictures and video to the screen.
 
 In the meantime; I think he'd make a handy clock.
 
-I started googling around for a terminal clock using ASCII art as to cut down on overhead and found some using 'figlet' that is nice, but I really wanted something larger.  I wound up taking a calligraphy style font I like and making my own ASCII art out of the numbers.  Here's the result:
+I started googling around for a terminal clock using ASCII art as to cut down on overhead and found some using 
+'figlet' that is nice, but I really wanted something larger.  I wound up taking a calligraphy style font I like 
+and making my own ASCII art out of the numbers.  Here's the result:
 
   /^``*Mb.          /|            ./``\b      .=--=MA    
  /     `MAI\       /A|           /M    \A.   /     \M*A  
