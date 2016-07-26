@@ -11,6 +11,7 @@ In the meantime; I think he'd make a handy clock.
 I started googling around for a terminal clock using ASCII art as to cut down on overhead and found some using 
 'figlet' that is nice, but I really wanted something larger.  I wound up taking a calligraphy style font I like 
 and making my own ASCII art out of the numbers.  Here's the result:
+<pre>
 
   /^``*Mb.          /|            ./``\b      .=--=MA    
  /     `MAI\       /A|           /M    \A.   /     \M*A  
@@ -29,7 +30,7 @@ and making my own ASCII art out of the numbers.  Here's the result:
 /    `A.../       M |M      \./   \b   d*    \.   ./MP`  
 .     `MM/       -MMMM-      `     `**``       ***`     
 
-
+</pre>
 It looks better when it is negative for sure.  But you can see I cut and pasted this at 21:03.
 
 The resolution of the letters were designed to perfectly fit the Raspberry Pi screen at 19 x 60 monospace characters.
